@@ -16,14 +16,14 @@
 
 | # | Lăng kính | Job Story | Actor chịu ảnh hưởng | Dấu hiệu và benchmark tham khảo |
 |---|---|---|---|---|
-| 1 | Cần tổng hợp thông tin, tốn thời gian | Khi phòng ban phát sinh nhu cầu tuyển dụng, tôi muốn truyền đạt đầy đủ vị trí, số lượng, năng lực chuyên môn và thời hạn cần nhân sự để tránh phải trao đổi, chỉnh sửa yêu cầu nhiều lần | Hiring Manager, trưởng bộ phận, HRBP, Recruitment Manager, Finance | NIJobs 2025: trung bình 3,4 giờ/vị trí dành cho trao đổi yêu cầu với các bên liên quan [N1] |
-| 2 | Lặp lại, tốn thời gian | Khi cần xây dựng hoặc điều chỉnh JD cho nhiều vị trí, tôi muốn nội dung tuyển dụng phản ánh đúng yêu cầu chuyên môn và được các bên thống nhất để giảm thời gian chỉnh sửa | Hiring Manager, HR, Recruitment Marketing, trưởng bộ phận | NIJobs 2025: hoạt động viết và đăng tin tuyển dụng mất trung bình 3,2 giờ/vị trí [N1] |
-| 3 | Lặp lại, tốn thời gian | Khi cần quảng bá một vị trí tuyển dụng trên nhiều nền tảng, tôi muốn giảm các thao tác đăng tải và cập nhật nội dung lặp lại để tiết kiệm thời gian và hạn chế sai lệch thông tin | Recruiter, Recruitment Marketing, Hiring Manager, IT/ATS Administrator | NIJobs 2025: 3,2 giờ/vị trí cho viết và đăng tin [N1], Employment Hero 2023: 5,4 giờ/tuần cho hoạt động đăng tin tại mẫu khảo sát Singapore và Malaysia [N6] |
-| 4 | Cần đọc, tổng hợp thông tin | Khi hồ sơ ứng viên được gửi qua nhiều nguồn, tôi muốn thông tin được tập trung và chuẩn hóa để giảm việc nhập dữ liệu nhiều lần và tránh bỏ sót hồ sơ | Recruiter, Talent Acquisition Operations, Hiring Manager, ứng viên, IT/ATS Administrator | Greenhouse: 244 hồ sơ/vị trí trong dữ liệu 2025 [N2], NIJobs: 4,1 giờ/vị trí cho nhập liệu và tài liệu HR [N1] |
-| 5 | Lặp lại, tốn thời gian | Khi ứng viên nộp hồ sơ qua nhiều kênh, tôi muốn phát hiện những bản ghi có thể trùng nhau để tránh liên hệ lặp lại và duy trì dữ liệu chính xác | Recruiter, HR Operations, ứng viên, IT/ATS Administrator | Greenhouse ghi nhận trung bình 4.890 lượt ứng tuyển/recruiter/năm 2025 [N2], NIJobs ghi nhận 4,1 giờ/vị trí cho nhập liệu và tài liệu [N1], chưa có tỷ lệ CV trùng được công bố cho riêng các kênh tại Việt Nam |
-| 6 | Tốn thời gian, pain từ người khác | Khi cần tổ chức phỏng vấn có nhiều người tham dự, tôi muốn tìm khung giờ phù hợp giữa ứng viên và người phỏng vấn để hạn chế trao đổi và thay đổi lịch nhiều lần | Recruitment Coordinator, ứng viên, Hiring Manager, Interviewer | NIJobs 2025: 3,5 giờ/vị trí cho việc sắp lịch [N1], GoodTime 2024: thời gian từ lúc bắt đầu xếp lịch đến khi được xác nhận trung bình 38,1 giờ với quy trình xác nhận thủ công, so với 20,8 giờ khi tự động xác nhận trong mẫu khách hàng GoodTime [N4] |
-| 7 | Cần tổng hợp thông tin, pain từ người khác | Khi nhiều người cùng tham gia đánh giá một ứng viên, tôi muốn nhận đầy đủ nhận xét và thống nhất bước xử lý tiếp theo để tránh các quyết định bị kéo dài do thiếu thông tin | Interviewer, Technical Lead, Hiring Manager, Recruiter, ứng viên | NIJobs 2025: trung bình 2,9 giờ/vị trí để tổng hợp và thống nhất feedback nội bộ, 3,6 giờ/vị trí cho xử lý sau phỏng vấn [N1] |
-| 8 | Lặp lại, pain từ người khác | Khi theo dõi nhiều ứng viên tại các giai đoạn tuyển dụng khác nhau, tôi muốn biết hồ sơ nào chưa được xử lý và ứng viên nào đang chờ phản hồi để tránh bỏ sót hoặc chậm thông báo kết quả | Recruiter, Hiring Manager, HR Operations, ứng viên, Recruitment Manager | NIJobs: 3,6 giờ/vị trí cho phản hồi và thông báo kết quả [N1], Robert Walters Vietnam 2025: 77% người tìm việc được khảo sát cảm thấy hồ sơ của họ thường không được phản hồi [N3] |
+| 1 | Cần tổng hợp thông tin, tốn thời gian | Khi phòng ban phát sinh nhu cầu tuyển dụng, tôi muốn truyền đạt đầy đủ vị trí, số lượng, năng lực chuyên môn và thời hạn cần nhân sự để tránh phải trao đổi, chỉnh sửa yêu cầu nhiều lần | Hiring Manager, trưởng bộ phận, HRBP, Recruitment Manager, Finance | Jobs.ie 2025 ghi nhận việc thống nhất yêu cầu với các bên liên quan là một việc tốn thời gian [N1]. Cần đo số lượt hỏi lại và phút công trên một yêu cầu thực tế. |
+| 2 | Lặp lại, tốn thời gian | Khi cần xây dựng hoặc điều chỉnh JD cho nhiều vị trí, tôi muốn nội dung tuyển dụng phản ánh đúng yêu cầu chuyên môn và được các bên thống nhất để giảm thời gian chỉnh sửa | Hiring Manager, HR, Recruitment Marketing, trưởng bộ phận | Employment Hero ghi nhận khoảng 6 giờ/tuần để soạn tin trong mẫu Singapore và Malaysia [N6]. Cần đo số lần sửa và phút công trên từng JD. |
+| 3 | Lặp lại, tốn thời gian | Khi cần quảng bá một vị trí tuyển dụng trên nhiều nền tảng, tôi muốn giảm các thao tác đăng tải và cập nhật nội dung lặp lại để tiết kiệm thời gian và hạn chế sai lệch thông tin | Recruiter, Recruitment Marketing, Hiring Manager, IT/ATS Administrator | Tôi từng phát triển công cụ dùng Google Sheets và Python để hỗ trợ đăng tin qua nhiều tài khoản Facebook. Employment Hero ghi nhận 4,5 giờ/tuần ở Singapore và 6,4 giờ/tuần ở Malaysia cho việc đăng tin [N6]. |
+| 4 | Cần đọc, tổng hợp thông tin | Khi hồ sơ ứng viên được gửi qua nhiều nguồn, tôi muốn thông tin được tập trung và chuẩn hóa để giảm việc nhập dữ liệu nhiều lần và tránh bỏ sót hồ sơ | Recruiter, Talent Acquisition Operations, Hiring Manager, ứng viên, IT/ATS Administrator | Greenhouse ghi nhận 244 lượt ứng tuyển/vị trí trong dữ liệu 2025 [N2]. Cần đo số hồ sơ phải nhập lại và phút công chuẩn hóa trong một đợt tuyển. |
+| 5 | Lặp lại, tốn thời gian | Khi ứng viên nộp hồ sơ qua nhiều kênh, tôi muốn phát hiện những bản ghi có thể trùng nhau để tránh liên hệ lặp lại và duy trì dữ liệu chính xác | Recruiter, HR Operations, ứng viên, IT/ATS Administrator | Greenhouse ghi nhận trung bình 4.890 lượt ứng tuyển/recruiter trong năm 2025 [N2]. Chưa có số đo tỷ lệ trùng trong quy trình đang xét. |
+| 6 | Tốn thời gian, pain từ người khác | Khi cần tổ chức phỏng vấn có nhiều người tham dự, tôi muốn tìm khung giờ phù hợp giữa ứng viên và người phỏng vấn để hạn chế trao đổi và thay đổi lịch nhiều lần | Recruitment Coordinator, ứng viên, Hiring Manager, Interviewer | GoodTime 2024 ghi nhận trung bình 38,1 giờ từ lúc bắt đầu xếp lịch đến xác nhận thủ công và 20,8 giờ khi tự động xác nhận, trong dữ liệu người dùng GoodTime [N4]. |
+| 7 | Cần tổng hợp thông tin, pain từ người khác | Khi nhiều người cùng tham gia đánh giá một ứng viên, tôi muốn nhận đầy đủ nhận xét và thống nhất bước xử lý tiếp theo để tránh các quyết định bị kéo dài do thiếu thông tin | Interviewer, Technical Lead, Hiring Manager, Recruiter, ứng viên | Trong khảo sát Jobs.ie, 19% recruiter nêu việc thu thập nhận xét từ hiring manager là trở ngại [N1]. Cần đo thời gian chờ và số lượt nhắc trong một vòng phỏng vấn thực tế. |
+| 8 | Lặp lại, pain từ người khác | Khi theo dõi nhiều ứng viên tại các giai đoạn tuyển dụng khác nhau, tôi muốn biết hồ sơ nào chưa được xử lý và ứng viên nào đang chờ phản hồi để tránh bỏ sót hoặc chậm thông báo kết quả | Recruiter, Hiring Manager, HR Operations, ứng viên, Recruitment Manager | Robert Walters Vietnam 2025 ghi nhận 77% người tìm việc được khảo sát cảm thấy hồ sơ thường bị bỏ qua [N3]. Cần đo tỷ lệ hồ sơ quá hạn phản hồi trong quy trình đang xét. |
 
 ### 2.2. Nhận xét ban đầu
 
@@ -39,8 +39,8 @@ Ba vấn đề được ưu tiên phân tích sâu là Multi-channel Recruitment
 
 | Rank | Problem | Vì sao chọn? | Điều còn chưa chắc |
 |---|---|---|---|
-| 1 | Multi-channel Recruitment Posting | Có kinh nghiệm trực tiếp phát triển công cụ hỗ trợ đăng tin tuyển dụng, quy trình lặp lại và có benchmark 3,2 giờ/vị trí cho viết và đăng tin | Các nền tảng hiện có hỗ trợ tự động hóa tới đâu, việc cập nhật JD trên nhiều kênh có phải điểm nghẽn đáng kể không |
-| 2 | Candidate Application Consolidation | Số lượng hồ sơ ứng tuyển lớn, dữ liệu phân tán và cần chuẩn hóa, có benchmark 4,1 giờ/vị trí cho nhập liệu và quản lý tài liệu | ATS hiện tại đã giải quyết được bao nhiêu phần, tỷ lệ hồ sơ trùng và thiếu thông tin trong thực tế là bao nhiêu |
+| 1 | Multi-channel Recruitment Posting | Có kinh nghiệm phát triển công cụ đăng tin và có thể đo phần thao tác lặp khi cùng một JD cần đăng hoặc sửa ở nhiều nơi | Các nền tảng hiện có hỗ trợ tự động hóa tới đâu, việc cập nhật JD trên nhiều kênh có phải điểm nghẽn đáng kể không |
+| 2 | Candidate Application Consolidation | Có thể đo số hồ sơ phải nhập lại, thời gian chuẩn hóa và tỷ lệ hồ sơ thiếu hoặc trùng | ATS hiện tại đã giải quyết được bao nhiêu phần, tỷ lệ hồ sơ trùng và thiếu thông tin trong thực tế là bao nhiêu |
 | 3 | Candidate Pipeline Tracking | Có nhiều actor tham gia, dễ xảy ra chậm phản hồi giữa các giai đoạn, có benchmark thời gian xử lý và dữ liệu về trải nghiệm ứng viên | Nguyên nhân chính là thiếu công cụ, thiếu dữ liệu hay việc phối hợp giữa Recruiter và Hiring Manager |
 
 ### 3.2. Problem Card #1 — Multi-channel Recruitment Posting
@@ -53,9 +53,9 @@ Ba vấn đề được ưu tiên phân tích sâu là Multi-channel Recruitment
 | **Quy trình hiện tại** | Hiring Manager xác nhận nhu cầu → HR chuẩn bị JD → Marketing điều chỉnh nội dung → Recruiter đăng trên các kênh → Kiểm tra bài đăng → Cập nhật khi có thay đổi |
 | **Bottleneck** | Đăng bài qua nhiều kênh và đồng bộ nội dung khi JD thay đổi, đặc biệt khi mỗi nền tảng có cấu trúc và yêu cầu đăng tải khác nhau |
 | **Impact** | Tăng thời gian thao tác, nguy cơ thông tin không đồng nhất, bài đăng cũ không được cập nhật, ảnh hưởng trải nghiệm ứng viên |
-| **Benchmark** | NIJobs 2025: 3,2 giờ/vị trí cho viết và đăng tin, Employment Hero 2023: 5,4 giờ/tuần cho hoạt động đăng tin trong mẫu khảo sát Singapore và Malaysia |
-| **Success metric** | Thời gian viết và đăng một vị trí, số thao tác thủ công, tỷ lệ bài đăng nhất quán với JD, thời gian cập nhật toàn bộ kênh |
-| **Target đề xuất** | Giảm 30% tổng thời gian viết và đăng tin, tương đương mốc tham chiếu từ 3,2 xuống khoảng 2,2 giờ/vị trí trong điều kiện thử nghiệm tương đương |
+| **Benchmark** | Employment Hero ghi nhận trung bình 4,5 giờ/tuần cho việc đăng tin ở Singapore và 6,4 giờ/tuần ở Malaysia [N6]. Chưa có baseline cho việc cập nhật JD đa kênh trong quy trình đang xét. |
+| **Success metric** | Phút công từ lúc nhận JD đã duyệt đến khi cập nhật và kiểm tra xong các kênh, số thao tác thủ công và tỷ lệ bài đăng nhất quán với JD |
+| **Target đề xuất** | Giảm 30% phút công để cập nhật một JD trên cùng số kênh, so với lượt thao tác thủ công. Kiểm tra các trường đã thay đổi trên từng bài đăng trước khi tính lượt đó là hoàn tất. |
 | **Phương án không dùng AI** | Chuẩn hóa JD, template theo từng nền tảng, lịch đăng nội dung và công cụ quản lý kênh tuyển dụng |
 | **Giả thuyết về AI** | AI hỗ trợ chuyển đổi JD thành nội dung phù hợp với từng nền tảng, so sánh thông tin giữa JD gốc và các phiên bản bài đăng, phát hiện nội dung cần cập nhật |
 | **Cảm nhận nhanh** | Workflow kết hợp AI cho các tác vụ xử lý ngôn ngữ, không nhất thiết cần Agent |
@@ -64,10 +64,10 @@ Ba vấn đề được ưu tiên phân tích sâu là Multi-channel Recruitment
 
 | Bước | Hoạt động | Actor | Benchmark liên quan |
 |---|---|---|---|
-| 1 | Xác định nhu cầu và yêu cầu tuyển dụng | Hiring Manager, HRBP | 3,4 giờ/vị trí cho trao đổi yêu cầu với stakeholders [N1] |
-| 2 | Chuẩn bị và thống nhất nội dung JD | HR, Hiring Manager | Thuộc nhóm hoạt động viết và đăng tin, 3,2 giờ/vị trí [N1] |
-| 3 | Chỉnh sửa nội dung theo từng kênh | Recruitment Marketing, Recruiter | Thuộc cùng mốc 3,2 giờ/vị trí, không cộng thêm lần nữa |
-| 4 | Đăng bài lên các nền tảng | Recruiter, Recruitment Marketing | Thuộc cùng mốc 3,2 giờ/vị trí, không cộng thêm lần nữa |
+| 1 | Xác định nhu cầu và yêu cầu tuyển dụng | Hiring Manager, HRBP | Chưa đo phút công trên một yêu cầu. Ghi riêng thời gian chờ phản hồi. |
+| 2 | Chuẩn bị và thống nhất nội dung JD | HR, Hiring Manager | Chưa đo tại chỗ. Mốc soạn tin trong khảo sát [N6] tính theo tuần. |
+| 3 | Chỉnh sửa nội dung theo từng kênh | Recruitment Marketing, Recruiter | Chưa đo. Ghi phút công điều chỉnh theo từng kênh. |
+| 4 | Đăng bài lên các nền tảng | Recruiter, Recruitment Marketing | Chưa đo tại chỗ. Mốc đăng tin trong khảo sát [N6] tính theo tuần. |
 | 5 | Kiểm tra bài đăng và thông tin hiển thị | Recruiter, Hiring Manager | Hoạt động kiểm tra trong quy trình, nguồn chưa tách riêng thời gian |
 | 6 | Cập nhật bài đăng khi JD thay đổi | Recruiter, Recruitment Marketing | Chưa có benchmark độc lập cho thời gian đồng bộ JD đa kênh |
 
@@ -100,9 +100,9 @@ Mức độ phổ biến của việc sửa JD sau khi đăng, số lượng kê
 | **Quy trình hiện tại** | Tiếp nhận CV → Mở và đọc hồ sơ → Ghi nhận thông tin → Nhập dữ liệu vào ATS/Sheets → Kiểm tra trùng và thiếu → Chuyển hồ sơ cho Hiring Manager |
 | **Bottleneck** | Thông tin đến từ nhiều nguồn, định dạng khác nhau và cần được nhập hoặc đối chiếu thủ công |
 | **Impact** | Tăng khối lượng nhập liệu, dễ xảy ra dữ liệu thiếu hoặc không đồng nhất, phát sinh hồ sơ trùng và khó truy xuất lịch sử |
-| **Benchmark** | Greenhouse 2026: 244 hồ sơ/vị trí trong dữ liệu 2025, NIJobs 2025: 4 giờ/vị trí cho reviewing applications và 4,1 giờ/vị trí cho data entry/documentation |
+| **Benchmark** | Greenhouse ghi nhận 244 lượt ứng tuyển/vị trí trong dữ liệu 2025 [N2]. Khảo sát Jobs.ie ghi nhận 3,6 giờ/vị trí cho sàng lọc CV [N1]. Hai nguồn có mẫu và chỉ số khác nhau. |
 | **Success metric** | Thời gian nhập liệu và chuẩn hóa, tỷ lệ trích xuất thông tin đúng, số hồ sơ trùng được phát hiện, số hồ sơ bị bỏ sót |
-| **Target đề xuất** | Giảm 40% thời gian nhập liệu và quản lý hồ sơ, lấy 4,1 giờ/vị trí làm mốc tham chiếu bên ngoài, tương đương khoảng 2,5 giờ/vị trí trong kịch bản thử nghiệm |
+| **Target đề xuất** | Giảm 40% phút công nhập và chuẩn hóa trên cùng một lô hồ sơ so với cách làm hiện tại, tính cả thời gian kiểm hồ sơ thiếu hoặc trùng. |
 | **Phương án không dùng AI** | ATS, biểu mẫu ứng tuyển chung, kết nối API, chuẩn hóa trường dữ liệu, kiểm tra trùng bằng email hoặc số điện thoại |
 | **Giả thuyết về AI** | AI hỗ trợ trích xuất dữ liệu từ CV có cấu trúc khác nhau, phát hiện trường thông tin thiếu và đề xuất các hồ sơ có khả năng trùng để nhân viên xác minh |
 | **Cảm nhận nhanh** | Workflow kết hợp AI Document Processing, không cần Agent cho các tác vụ có quy tắc rõ ràng |
@@ -113,8 +113,8 @@ Mức độ phổ biến của việc sửa JD sau khi đăng, số lượng kê
 |---|---|---|---|
 | 1 | Nộp CV qua các kênh tuyển dụng | Ứng viên | Greenhouse: 244 lượt ứng tuyển/vị trí trong dữ liệu 2025 [N2] |
 | 2 | Thu thập và mở hồ sơ từ các nguồn | Recruiter, TA Operations | Thuộc quy trình xử lý hồ sơ, benchmark khối lượng 244 hồ sơ/vị trí [N2] |
-| 3 | Đọc và ghi nhận thông tin ứng viên | Recruiter | 4 giờ/vị trí cho reviewing applications [N1] |
-| 4 | Nhập và chuẩn hóa thông tin | TA Operations, Recruiter | 4,1 giờ/vị trí cho data entry và documentation [N1] |
+| 3 | Đọc và ghi nhận thông tin ứng viên | Recruiter | Chưa đo thời gian ghi nhận. Jobs.ie báo cáo 3,6 giờ/vị trí cho hoạt động sàng lọc CV [N1]. |
+| 4 | Nhập và chuẩn hóa thông tin | TA Operations, Recruiter | Chưa đo. Ghi phút công theo lô và số hồ sơ cần nhập lại. |
 | 5 | Kiểm tra hồ sơ thiếu hoặc trùng lặp | Recruiter, IT/ATS Administrator | Thuộc hoạt động kiểm tra dữ liệu, chưa có tỷ lệ trùng chuẩn chung trong nguồn |
 | 6 | Chuyển hồ sơ cho người phụ trách | Recruiter, Hiring Manager | Công đoạn bàn giao, không có mốc thời gian độc lập trong nguồn được chọn |
 
@@ -127,7 +127,7 @@ Mức độ phổ biến của việc sửa JD sau khi đăng, số lượng kê
 **Điểm cần chú ý:**
 
 Benchmark 244 hồ sơ/vị trí của Greenhouse không có nghĩa mọi doanh nghiệp đều nhận số lượng hồ sơ tương tự
-Con số 4 giờ/vị trí cho rà soát hồ sơ và 4,1 giờ/vị trí cho nhập liệu là hai hoạt động khác nhau, không phải thời gian xử lý cho một CV
+Khi đo tại chỗ, tách thời gian đọc hồ sơ, nhập dữ liệu và kiểm trùng. So sánh trên cùng lô hồ sơ để kiểm soát chênh lệch về số lượng và định dạng.
 
 **Giới hạn:**
 
@@ -146,10 +146,10 @@ Con số 4 giờ/vị trí cho rà soát hồ sơ và 4,1 giờ/vị trí cho nh
 | **Quy trình hiện tại** | Tiếp nhận hồ sơ → Cập nhật trạng thái → Sắp lịch phỏng vấn → Thu thập feedback → Thống nhất kết quả → Phản hồi ứng viên |
 | **Bottleneck** | Việc thu thập feedback, cập nhật trạng thái và chuyển thông tin giữa các bộ phận có thể bị chậm hoặc thiếu nhất quán |
 | **Impact** | Ứng viên phải chờ phản hồi, Recruiter phải theo dõi và nhắc việc nhiều lần, Hiring Manager thiếu thông tin kịp thời |
-| **Benchmark** | NIJobs 2025: 2,9 giờ/vị trí cho thống nhất feedback nội bộ, 3,6 giờ/vị trí cho xử lý sau phỏng vấn, 3,6 giờ/vị trí cho phản hồi ứng viên [N1] |
+| **Benchmark** | Trong khảo sát Jobs.ie, 26% recruiter nêu việc theo dõi sau phỏng vấn và 19% nêu việc thu thập nhận xét từ hiring manager là trở ngại [N1]. Chưa có baseline phút công cho quy trình đang xét. |
 | **Dữ liệu về trải nghiệm ứng viên** | Robert Walters Vietnam 2025 ghi nhận 77% người tìm việc được khảo sát cảm thấy hồ sơ thường bị bỏ qua, Survale 2025 ghi nhận 31% ứng viên Bắc Mỹ trong nghiên cứu không nhận phản hồi sau 1–2 tháng hoặc lâu hơn [N3, N5] |
 | **Success metric** | Thời gian cập nhật trạng thái, thời gian phản hồi ứng viên, số ứng viên quá hạn phản hồi, thời gian chờ feedback từ Hiring Manager |
-| **Target đề xuất** | Giảm 30% thời gian thao tác phản hồi ứng viên, tham chiếu từ 3,6 xuống khoảng 2,5 giờ/vị trí cho hoạt động tương ứng |
+| **Target đề xuất** | Giảm 30% phút công phản hồi so với cách làm hiện tại trên cùng số hồ sơ. Theo dõi riêng tỷ lệ ứng viên quá hạn phản hồi. |
 | **Phương án không dùng AI** | ATS, Kanban pipeline, quy định SLA, thông báo tự động theo trạng thái và phân công trách nhiệm rõ ràng |
 | **Giả thuyết về AI** | AI hỗ trợ tổng hợp nội dung feedback, phát hiện trạng thái chưa được cập nhật, soạn thông báo và tóm tắt những trường hợp cần người phụ trách xử lý |
 | **Cảm nhận nhanh** | Rule / Workflow, AI hữu ích khi cần tổng hợp nội dung tự do từ email và nhận xét |
@@ -158,12 +158,12 @@ Con số 4 giờ/vị trí cho rà soát hồ sơ và 4,1 giờ/vị trí cho nh
 
 | Bước | Hoạt động | Actor | Benchmark liên quan |
 |---|---|---|---|
-| 1 | Tiếp nhận và cập nhật thông tin ứng viên | Recruiter, TA Operations | 4,1 giờ/vị trí cho data entry/documentation [N1] |
-| 2 | Xác định giai đoạn và người phụ trách tiếp theo | Recruiter, Hiring Manager | Thuộc quy trình quản lý hồ sơ và phối hợp |
-| 3 | Sắp xếp lịch phỏng vấn | Recruitment Coordinator, Interviewer, ứng viên | 3,5 giờ/vị trí cho scheduling [N1] |
-| 4 | Ghi nhận và xử lý thông tin sau phỏng vấn | Interviewer, Technical Lead, Recruiter | 3,6 giờ/vị trí cho post-interview processing [N1] |
-| 5 | Tổng hợp feedback và thống nhất bước tiếp theo | Hiring Manager, Interviewer, Recruiter | 2,9 giờ/vị trí cho aligning internal feedback [N1] |
-| 6 | Cập nhật trạng thái và thông báo kết quả | Recruiter, ứng viên | 3,6 giờ/vị trí cho candidate feedback/rejections [N1] |
+| 1 | Tiếp nhận và cập nhật thông tin ứng viên | Recruiter, TA Operations | Chưa đo. Ghi phút công trên một lô hồ sơ. |
+| 2 | Xác định giai đoạn và người phụ trách tiếp theo | Recruiter, Hiring Manager | Chưa đo. Ghi thời gian bàn giao và số hồ sơ chưa có người phụ trách. |
+| 3 | Sắp xếp lịch phỏng vấn | Recruitment Coordinator, Interviewer, ứng viên | [N4] đo thời gian lịch từ lúc bắt đầu xếp đến xác nhận. Phút công sắp xếp tại chỗ chưa đo. |
+| 4 | Ghi nhận và xử lý thông tin sau phỏng vấn | Interviewer, Technical Lead, Recruiter | Chưa đo. Ghi phút công nhập nhận xét và thời gian chờ riêng. |
+| 5 | Tổng hợp feedback và thống nhất bước tiếp theo | Hiring Manager, Interviewer, Recruiter | Chưa đo. Ghi phút công tổng hợp, số lượt nhắc và thời gian chờ đủ nhận xét. |
+| 6 | Cập nhật trạng thái và thông báo kết quả | Recruiter, ứng viên | Chưa đo. Ghi phút công cập nhật và gửi thông báo, cùng số hồ sơ quá hạn. |
 
 **Luồng hiện tại:**
 
@@ -175,7 +175,7 @@ Con số 4 giờ/vị trí cho rà soát hồ sơ và 4,1 giờ/vị trí cho nh
 
 Theo GoodTime 2024, thời gian từ khi bắt đầu quá trình sắp xếp phỏng vấn đến khi lịch được xác nhận trung bình 38,1 giờ đối với phương thức xác nhận thủ công và 20,8 giờ khi sử dụng tính năng tự động xác nhận
 Đây là thời gian chờ theo lịch, không phải số giờ nhân viên phải trực tiếp thao tác
-Theo SHRM 2025, trung vị thời gian từ lúc mở yêu cầu tuyển dụng đến khi ứng viên chấp nhận offer ở Mỹ vào khoảng 45 ngày, phản ánh thời gian của toàn bộ quy trình chứ không phải riêng việc theo dõi pipeline
+Theo SHRM 2025, trung vị thời gian từ lúc mở yêu cầu tuyển dụng đến khi ứng viên chấp nhận offer vào khoảng một tháng rưỡi trong mẫu khảo sát [N7]. Chỉ số này tính theo ngày lịch cho toàn bộ quy trình.
 
 **Giới hạn:**
 
@@ -192,7 +192,7 @@ Theo SHRM 2025, trung vị thời gian từ lúc mở yêu cầu tuyển dụng 
 - Có liên quan trực tiếp đến kinh nghiệm phát triển công cụ đăng tin tuyển dụng
 - Có nhiều actor tham gia như Hiring Manager, HR, Recruitment Marketing và IT
 - Quy trình gồm các công việc lặp lại, có khả năng tự động hóa
-- Có benchmark về thời gian viết và đăng tuyển dụng
+- Có benchmark ngoài về thời gian soạn và đăng tin theo tuần [N6]
 - Có thể đo thời gian thao tác trước và sau khi cải thiện
 - Có thể bắt đầu bằng Rule/Workflow trước khi quyết định sử dụng AI
 
@@ -228,12 +228,12 @@ Việc sử dụng AI chỉ được cân nhắc ở các bước cần xử lý
 | Phản biện bài của bạn khác | Phản biện một số đề tài của Linh và Khương, góp ý bổ sung quy tắc và logic để hoàn thiện hơn | Cần bổ sung câu hỏi cụ thể và điều chỉnh sau trao đổi nếu có ghi chép |
 | Nhận phản biện | Chưa có ghi chép xác nhận câu hỏi và câu trả lời thực tế | Cần bổ sung người hỏi, nội dung phản biện và điều chỉnh thực tế nếu đã trao đổi |
 | Gom cluster / cây OST | Phân loại các vấn đề tuyển dụng thành ba nhóm gồm quản lý JD và đăng tuyển, tiếp nhận hồ sơ ứng viên, theo dõi tiến độ tuyển dụng | Có cơ sở phân nhóm các vấn đề liên quan để chuẩn bị thảo luận |
-| Chọn candidate problem | Ưu tiên Multi-channel Recruitment Posting, tập trung vào việc cập nhật và đồng bộ thông tin tuyển dụng trên nhiều nền tảng | Có đề xuất vấn đề cụ thể để đưa ra thảo luận |
-| Kiểm chứng / research | Tìm hiểu các benchmark từ NIJobs, Greenhouse, Robert Walters và nghiên cứu những tính năng của Workable, Zoho Recruit, Recruitee và Base E-Hiring | Có số liệu và giải pháp tham khảo để xác định phạm vi vấn đề, chưa sử dụng dữ liệu thị trường thay thế số liệu thực tế của doanh nghiệp |
+| Chọn candidate problem | Đề xuất cá nhân là Multi-channel Recruitment Posting, tập trung vào đồng bộ thông tin khi JD thay đổi | Nhóm chọn đối chiếu hồ sơ chào giá của nhà thầu. Đề tài tuyển dụng được giữ trong phần phân tích cá nhân |
+| Kiểm chứng / research | Tìm hiểu benchmark tuyển dụng và các tính năng của Workable, Zoho Recruit, Recruitee và Base E-Hiring cho đề tài cá nhân | Có số liệu và giải pháp tham khảo để xác định phạm vi vấn đề. Thời gian thực tế tại doanh nghiệp cần được đo riêng |
 | Quy trình nhóm | Chuẩn bị quy trình từ tiếp nhận yêu cầu tuyển dụng, xây dựng JD, đăng bài đa kênh đến kiểm tra và cập nhật khi có thay đổi | Xác định những công đoạn có khả năng xuất hiện bottleneck để tiếp tục kiểm chứng |
 | Problem Statement | Thu hẹp vấn đề từ việc đăng tin tuyển dụng thủ công sang việc khó đảm bảo tính nhất quán của thông tin tuyển dụng khi JD thay đổi trên nhiều kênh | Có định hướng Problem Statement với actor, bottleneck, impact và metric rõ ràng hơn |
-| Mức can thiệp | Phân tích các bước có thể xử lý bằng quy tắc, tự động hóa quy trình và các bước cần phân tích nội dung ngôn ngữ tự nhiên | Có cơ sở lựa chọn phương án xử lý phù hợp, tránh sử dụng công nghệ phức tạp cho các tác vụ đơn giản |
-| Quyết định | Chuẩn bị các tiêu chí đánh giá tính cần thiết, khả năng sử dụng, tính khả thi và hiệu quả kinh tế | Chưa có quyết định chính thức của nhóm, cần tiếp tục kiểm chứng trước khi kết luận |
+| Mức can thiệp | So sánh No AI, Rule, Workflow và Agent cho bài đối chiếu chào giá, xác định phần so số có thể dùng Rule và trường hợp cần chuyên viên kiểm tra | Phần phân tích CP6 được tích hợp qua [PR #6](https://github.com/trongjhuongwr/K5-L3A-DAY02-TEAMLAGI-DiscoveryProblemFraming/pull/6) |
+| Quyết định | Phân tích bốn rủi ro Value, Usability, Feasibility và Viability. Đề xuất ban đầu là Go với Rule cho phần soát và Not Yet với AI | [PR #10](https://github.com/trongjhuongwr/K5-L3A-DAY02-TEAMLAGI-DiscoveryProblemFraming/pull/10) công bố chọn Rule để soát khối lượng và đơn giá trên bảng đã ghép đúng. Trạng thái pilot là Not Yet, chờ xác nhận quyền dùng dữ liệu, đáp án và ngưỡng kiểm |
 
 ### 4.1. Phân tích và điều chỉnh vấn đề cá nhân
 
@@ -277,7 +277,7 @@ Những thay đổi quan trọng phải được người phụ trách kiểm tr
 | CP2 | Hỗ trợ xây dựng cấu trúc Problem Card, workflow và phản biện giả thuyết | Làm rõ bottleneck, impact, success metrics và phương án không sử dụng công nghệ phức tạp | Ban đầu tập trung quá nhiều vào giải pháp thay vì xác định nguyên nhân vấn đề | Điều chỉnh cách phân tích theo Problem → Bottleneck → Intervention |
 | Research | Hỗ trợ tìm kiếm số liệu tuyển dụng và những phần mềm tương tự trên thị trường | Có nguồn tham khảo về thời gian tuyển dụng, khối lượng hồ sơ và các giải pháp hiện có | Benchmark chưa phản ánh trực tiếp doanh nghiệp cụ thể, một số tính năng cần kiểm tra trực tiếp | Phân biệt benchmark với baseline, giữ các khoảng trống cần kiểm chứng |
 | Phân tích giải pháp | Hỗ trợ so sánh các cách xử lý thủ công, tự động hóa và xử lý nội dung | Xác định những bước có thể xử lý bằng quy tắc và các bước cần hiểu ngữ nghĩa | Một số đề xuất vượt quá phạm vi vấn đề và chưa có bằng chứng về hiệu quả | Thu hẹp phạm vi vào đồng bộ và kiểm tra tính nhất quán của JD |
-| Rà soát bài nộp | Nhờ trợ lý đối chiếu báo cáo nhóm, nhật ký và báo cáo cá nhân với yêu cầu checkpoint | Xác định nội dung CP6 đã tích hợp và các việc còn cần người thực hiện hoặc nhóm xác nhận | Không thể xác nhận trải nghiệm cá nhân, kết quả thảo luận hay kiểm chứng thay thành viên | Cần tự kiểm các ghi nhận, hoàn thành reflection và cùng nhóm chốt các nội dung còn mở |
+| Rà soát bài nộp | Đối chiếu báo cáo nhóm, nhật ký, báo cáo cá nhân và nguồn số liệu | Xác định phần CP6 đã tích hợp, cập nhật quyết định hiện tại và bổ sung liên kết tham khảo | Một số mốc giờ trong bản cũ chưa đối chiếu được với nguồn. Các tài liệu khảo sát chưa cung cấp thời gian đo tại chỗ | Giữ số liệu có nguồn, tách benchmark khỏi baseline thực tế và ghi rõ các bước chưa đo |
 
 ---
 
@@ -317,10 +317,10 @@ Chuyên viên kinh tế kỹ thuật mất nhiều công dò chênh lệch khố
 ---
 
 ## 7. Tài liệu tham khảo
-**[N1] NIJobs — What's slowing down your hiring? (2025)**
-**[N2] Greenhouse — The Hire Standard, Recruiting Benchmarks (2026)**
-**[N3] Robert Walters Vietnam — Job Application Overload (2025)**
-**[N4] GoodTime — 2024 Year in Review**
-**[N5] Survale — 2025 Candidate Experience Benchmark Research**
-**[N6] Employment Hero — State of Recruitment Report Singapore & Malaysia (2023)**
-**[N7] SHRM — 2025 Recruiting Executives Benchmarking**
+- **[N1]** [Jobs.ie, What's slowing down your hiring? (2025)](https://www.jobs.ie/recruiters/recruitment-news/news/whats-slowing-down-your-hiring-new-surveys-reveals-the-top-blockers-and-breakthroughs/)
+- **[N2]** [Greenhouse, The Hire Standard: Recruiting Benchmarks (2026)](https://www.greenhouse.com/recruiting-benchmarks)
+- **[N3]** [Robert Walters Vietnam, Job Application Overload (2025)](https://www.robertwalters.com.vn/insights/news/blog/candidate-ghosting.html)
+- **[N4]** [GoodTime, 2024 Year in Review](https://goodtime.io/resources/2024-year-in-review/)
+- **[N5]** [Survale, 2025 Candidate Experience Benchmark Research: Fact Sheet & Key Statistics](https://survale.com/2025-candidate-experience-cande-benchmark-research-key-statistics/)
+- **[N6]** [Employment Hero, State of Recruitment Report: Singapore & Malaysia, khảo sát 2023, tr. 22 và 29](https://employmenthero.com/sg/wp-content/uploads/sites/3/2023/10/EmploymentHero_StateofRecruitmentReport_SGMY_2024.pdf)
+- **[N7]** [SHRM, 2025 Recruiting Executives Benchmarking: Insights to Maximize Recruitment](https://www.shrm.org/content/dam/en/shrm/research/2025-recruiting-benchmarking-report.pdf)
