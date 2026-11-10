@@ -230,10 +230,10 @@ Việc sử dụng AI chỉ được cân nhắc ở các bước cần xử lý
 | Gom cluster / cây OST | Phân loại các vấn đề tuyển dụng thành ba nhóm gồm quản lý JD và đăng tuyển, tiếp nhận hồ sơ ứng viên, theo dõi tiến độ tuyển dụng | Có cơ sở phân nhóm các vấn đề liên quan để chuẩn bị thảo luận |
 | Chọn candidate problem | Đề xuất cá nhân là Multi-channel Recruitment Posting, tập trung vào đồng bộ thông tin khi JD thay đổi | Nhóm chọn đối chiếu hồ sơ chào giá của nhà thầu. Đề tài tuyển dụng được giữ trong phần phân tích cá nhân |
 | Kiểm chứng / research | Tìm hiểu benchmark tuyển dụng và các tính năng của Workable, Zoho Recruit, Recruitee và Base E-Hiring cho đề tài cá nhân | Có số liệu và giải pháp tham khảo để xác định phạm vi vấn đề. Thời gian thực tế tại doanh nghiệp cần được đo riêng |
-| Quy trình nhóm | Chuẩn bị quy trình từ tiếp nhận yêu cầu tuyển dụng, xây dựng JD, đăng bài đa kênh đến kiểm tra và cập nhật khi có thay đổi | Xác định những công đoạn có khả năng xuất hiện bottleneck để tiếp tục kiểm chứng |
+| Quy trình nhóm | Dùng quy trình gom và soát của Vinh làm đầu vào cho phần phân tích mức can thiệp ở CP6 | Tách bước so số trên bảng đã ghép đúng khỏi bước ghép file sai mẫu. Vinh phụ trách quy trình, Hưởng tổng hợp |
 | Problem Statement | Thu hẹp vấn đề từ việc đăng tin tuyển dụng thủ công sang việc khó đảm bảo tính nhất quán của thông tin tuyển dụng khi JD thay đổi trên nhiều kênh | Có định hướng Problem Statement với actor, bottleneck, impact và metric rõ ràng hơn |
-| Mức can thiệp | So sánh No AI, Rule, Workflow và Agent cho bài đối chiếu chào giá, xác định phần so số có thể dùng Rule và trường hợp cần chuyên viên kiểm tra | Phần phân tích CP6 được tích hợp qua [PR #6](https://github.com/trongjhuongwr/K5-L3A-DAY02-TEAMLAGI-DiscoveryProblemFraming/pull/6) |
-| Quyết định | Phân tích bốn rủi ro Value, Usability, Feasibility và Viability. Đề xuất ban đầu là Go với Rule cho phần soát và Not Yet với AI | [PR #10](https://github.com/trongjhuongwr/K5-L3A-DAY02-TEAMLAGI-DiscoveryProblemFraming/pull/10) công bố chọn Rule để soát khối lượng và đơn giá trên bảng đã ghép đúng. Trạng thái pilot là Not Yet, chờ xác nhận quyền dùng dữ liệu, đáp án và ngưỡng kiểm |
+| Mức can thiệp | Phân tích độ mơ hồ và độ phức tạp, so sánh No AI, Rule, Workflow và Agent cho bài đối chiếu chào giá. Xác định phần dùng Rule và trường hợp cần chuyên viên kiểm tra | Phần CP6 được tích hợp qua [PR #6](https://github.com/trongjhuongwr/K5-L3A-DAY02-TEAMLAGI-DiscoveryProblemFraming/pull/6). AI hỗ trợ ghép bảng là hướng mở rộng cần kiểm riêng |
+| Quyết định | Phân tích bốn rủi ro Value, Usability, Feasibility và Viability. Đề xuất ban đầu là Go với Rule cho phần soát và Not Yet với AI | Nhóm chọn Rule để soát khối lượng và đơn giá trên bảng đã ghép đúng. Pilot ở trạng thái Not Yet theo PR #10 và #11, chờ xác nhận quyền dùng dữ liệu, ghép mã, đáp án và ngưỡng kiểm |
 
 ### 4.1. Phân tích và điều chỉnh vấn đề cá nhân
 
@@ -317,6 +317,9 @@ Chuyên viên kinh tế kỹ thuật mất nhiều công dò chênh lệch khố
 ---
 
 ## 7. Tài liệu tham khảo
+- [PR #6 — Phần CP6 của Tuyên](https://github.com/trongjhuongwr/K5-L3A-DAY02-TEAMLAGI-DiscoveryProblemFraming/pull/6): nguồn phân tích mức can thiệp, boundary và rủi ro.
+- [Báo cáo nhóm](../team/group_report.md), mục 6–8; [PR #10](https://github.com/trongjhuongwr/K5-L3A-DAY02-TEAMLAGI-DiscoveryProblemFraming/pull/10) và [PR #11](https://github.com/trongjhuongwr/K5-L3A-DAY02-TEAMLAGI-DiscoveryProblemFraming/pull/11): phạm vi Rule và trạng thái Not Yet cho pilot.
+
 - **[N1]** [Jobs.ie, What's slowing down your hiring? (2025)](https://www.jobs.ie/recruiters/recruitment-news/news/whats-slowing-down-your-hiring-new-surveys-reveals-the-top-blockers-and-breakthroughs/)
 - **[N2]** [Greenhouse, The Hire Standard: Recruiting Benchmarks (2026)](https://www.greenhouse.com/recruiting-benchmarks)
 - **[N3]** [Robert Walters Vietnam, Job Application Overload (2025)](https://www.robertwalters.com.vn/insights/news/blog/candidate-ghosting.html)
